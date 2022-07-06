@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="KofaxTest:jar">
+  <artifact type="jar" build-on-make="true" name="KofaxTest:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/KofaxTest_jar</output-path>
     <root id="archive" name="KofaxTest.jar">
       <element id="module-output" name="KofaxTest" />
